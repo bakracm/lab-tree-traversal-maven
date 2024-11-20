@@ -7,8 +7,7 @@ import java.util.Iterator;
  * Simple binary trees.
  *
  * @author Samuel A. Rebelsky
- * @author Your Name Here
- * @author Your Name Here
+ * @author Mina Bakrac
  *
  * @param <T>
  *   The type of value stored in the tree.
